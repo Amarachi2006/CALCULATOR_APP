@@ -14,3 +14,4 @@ function calculateResult() {
   result = eval(result);
   document.getElementById('result').value = result;
 }
+
